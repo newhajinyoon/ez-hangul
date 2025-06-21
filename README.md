@@ -7,7 +7,7 @@
 ## 기능
 
 ```
-pip install ez-hangul==0.1.2
+pip install ez-hangul
 ```
 
 ```python
