@@ -6,6 +6,10 @@
 
 ## 기능
 
+```
+pip install ez-hangul==0.1.2
+```
+
 ```python
 from ez_hangul import *
 ```
