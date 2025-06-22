@@ -104,7 +104,7 @@ print(native_number(99))  # 아흔아홉
 ## 전체 예제
 
 ```python
-import hangul_jamo as hj
+from ez_hangul import *
 
 if __name__ == "__main__":
     # 자모 분리/조합
